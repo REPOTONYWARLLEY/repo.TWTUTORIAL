@@ -512,9 +512,9 @@ Add-on Retirado do Canal TONY WARLLEY TUTORIAIS, nÃ£o baixe Add-ons que nÃ£o
 
 <addon id="repo.TWTUTORIAL" name="[B][COLOR red].TWTutoriais Repo[/B][/COLOR]" version="0.0.1" provider-name="repo.TWTUTORIAIS">
 	<extension point="xbmc.addon.repository" name="Repositorio TWTutoriais">
-		<info compressed="false">https://raw.github.com/BUILDTONYWARLLEY/repo.TWTUTORIAL/master/addon.xml.md5</info>
-		<checksum>https://raw.github.com/BUILDTONYWARLLEY/repo.TWTUTORIAL/master/addon.xml.md5</checksum>
-		<datadir zip="true">https://github.com/BUILDTONYWARLLEY/repo.TWTUTORIAL/master/repo/</datadir>
+		<info compressed="false">https://raw.github.com/REPOTONYWARLLEY/repo.TWTUTORIAL/novo-repositorio/addons.xml</info>
+		<checksum>ttps://raw.github.com/REPOTONYWARLLEY/repo.TWTUTORIAL/novo-repositorio/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/REPOTONYWARLLEY/repo.TWTUTORIAL/novo-repositorio/repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 	  <news>
